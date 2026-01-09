@@ -5,6 +5,11 @@ This project helps users add, complete, and manage daily tasks easily.
 
 The app uses localStorage, so your tasks are saved automatically and remain available even after refreshing or revisiting the website.
 
+## 📸 Project Preview
+
+![To-Do List App Interface](image.png)
+
+
 🚀 Features
 
 ➕ Add new tasks
